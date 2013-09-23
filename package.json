@@ -1,0 +1,21 @@
+{
+  "name": "ripcurl",
+  "description": "REST in peace - helper for REST web services",
+  "keywords": [
+    "express",
+    "api",
+    "route",
+    "setter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/remicastaing/rest-api-route-setter.git"},
+  "version": "0.1.1",
+  "private": false,
+  "author": "Rémi Castaing <remi.castaing@gmail.com> (http://remicastaing.github.com)",
+  "engines": {
+    "node": "0.10.x",
+    "npm":  "1.2.x"
+  },
+  "main": "./lib/main.js"
+}
